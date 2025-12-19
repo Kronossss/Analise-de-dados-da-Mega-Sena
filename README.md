@@ -51,6 +51,7 @@ mega-sena-ai/
 │
 ├── README.md
 └── requirements.txt
+
 🧠 Modelos Desenvolvidos
 ✔ ANN (Artificial Neural Network)
 Previsão direta da soma ou dos números sorteados
@@ -86,6 +87,7 @@ Exemplo de saída:
 csharp
 Copiar código
 [7, 16, 25, 28, 34, 44, 50]
+
 📈 Visualizações
 Evolução da soma dos números ao longo do tempo
 
