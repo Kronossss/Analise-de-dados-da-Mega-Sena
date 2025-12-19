@@ -27,7 +27,7 @@ O projeto explora múltiplos modelos e arquiteturas para aprendizado de padrões
 
 ## 📁 Estrutura do Projeto
 
-```text
+
 mega-sena-ai/
 │
 ├── data/
