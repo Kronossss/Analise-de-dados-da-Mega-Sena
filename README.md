@@ -84,7 +84,6 @@ Evita números duplicados
 
 Exemplo de saída:
 
-
 [7, 16, 25, 28, 34, 44, 50]
 
 📈 Visualizações
@@ -110,13 +109,10 @@ Matplotlib
 🚀 Como Executar
 Clone o repositório:
 
-bash
-Copiar código
 git clone https://github.com/seu-usuario/mega-sena-ai.git
+
 Instale as dependências:
 
-bash
-Copiar código
 pip install -r requirements.txt
 Execute os notebooks no Google Colab ou localmente.
 
