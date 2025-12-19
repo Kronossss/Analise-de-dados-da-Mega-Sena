@@ -52,6 +52,8 @@ mega-sena-ai/
 ├── README.md
 └── requirements.txt
 
+---
+
 🧠 Modelos Desenvolvidos
 ✔ ANN (Artificial Neural Network)
 Previsão direta da soma ou dos números sorteados
