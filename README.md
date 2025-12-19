@@ -54,24 +54,31 @@ mega-sena-ai/
 
 🧠 Modelos Desenvolvidos
 ✔ ANN (Artificial Neural Network)
-Previsão direta da soma ou dos números sorteados
+- Rede neural densa tradicional
+- Utilizada como baseline
+- Previsão direta dos números sorteados
 
-✔ CNN 1D
-Tratamento da sequência como sinal temporal
+✔ CNN
+- Tratamento da sequência como sinal temporal
+- Uso de convoluções 1D
+- Extração de padrões locais
 
 ✔ RNN
-Uso de janelas temporais (ex: últimos 3, 20 concursos)
-Previsão do próximo sorteio
+- Modelagem temporal dos concursos
+- Uso de janelas deslizantes (ex: 3, 10, 20 concursos)
+- Previsão baseada em histórico sequencial
 
 ✔ Transformer
-Atenção multi-head para captura de padrões complexos
-Previsão de 6 números
-Geração estendida para 7 números
+- Atenção multi-head para captura de padrões complexos
+- Arquitetura baseada em **Self-Attention**
+- Capaz de capturar relações globais entre concursos
+- Previsão direta dos 6 números
+- Geração estendida para 7 números
 
 ✔ Autoencoder
-Redução de dimensionalidade
-Análise de padrões latentes
-Reconstrução dos números sorteados
+- Redução de dimensionalidade
+- Análise de correlação entre números sorteados
+- Extração de padrões latentes
 
 🔢 Previsões
 O projeto permite gerar:
